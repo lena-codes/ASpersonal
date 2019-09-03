@@ -87,7 +87,7 @@ body,
 p,
 a,
 a:hover {
-  color: #000000;
+  color: #ccc;
 }
 
 a,
@@ -360,7 +360,7 @@ body.page-template-page-fullsingle-split p {
 }
 
 .split-credit {
-  opacity: 0.4;
+  opacity: 0.2;
 }
 .split-credit p {
   font-size: 12px;
@@ -410,4 +410,14 @@ video.video {
   object-position: 50% 50%;
   width: 100%;
   height: 100%;
+}
+
+.split-lists {
+  display: table;
+  margin: 2em auto 2em;
+}
+
+.ref-list li {
+  display:inline;
+  margin: 0 30px;
 }
