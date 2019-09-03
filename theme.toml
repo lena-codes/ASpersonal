@@ -1,20 +1,20 @@
 # theme.toml template for a Hugo theme
 # See https://github.com/gohugoio/hugoThemes#themetoml for an example
 
-name = "Split"
+name = "split"
 license = "Creative Commons Attribution 3.0 Unported"
 licenselink = "//github.com/escalate/hugo-split-theme/blob/master/LICENSE.md"
-description = "Split is a centrally-divided layout for a professional online presence with a big image or video left with alongside content."
-homepage = "//github.com/escalate/hugo-split-theme"
+description = "ASpersonal is a centrally-divided layout for a professional online presence with a big image or video left with alongside content. Based on Split"
+homepage = "//github.com/zckrbrt/ASpersonal"
 tags = ["minimal", "onepage", "one page", "responsive", "personal"]
 features = []
 min_version = "0.21"
 
 [author]
-  name = "Christian Mendoza / Felix Börner"
+  name = "Anna-Lena Schwarzkopf"
 
 # If porting an existing theme
 [original]
-  name = "One Page Love"
-  homepage = "//onepagelove.com/split"
-  repo = ""
+  name = "Split"
+  homepage = "https://github.com/escalate/hugo-split-theme"
+  repo = "https://github.com/escalate/hugo-split-theme"
